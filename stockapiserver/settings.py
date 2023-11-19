@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-%5gt57quwr^weyw=%w6#sp&1dx)!72rubh5u6e@#1uncsl14rd
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://stockapi-2oio.onrender.com','localhost']
+ALLOWED_HOSTS = ['stockapi-2oio.onrender.com','localhost']
 
 CORS_ORIGIN_ALLOW_ALL = True
 
